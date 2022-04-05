@@ -1,7 +1,7 @@
 baseURL: https://elihalbreich.netlify.app
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Eli D. Halbreich
 theme: "cupper-hugo-theme"
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -17,9 +17,9 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: I am an incoming Clinical Psychology Ph.D. Student at Texas Tech University studying human-animal interaction.
+  homeMetaContent: Personal website of Eli D. Halbreich.
+  footer: Made with [Hugo](https://gohugo.io/). Theme by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). © 2022 Eli D. Halbreich. 
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
