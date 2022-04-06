@@ -16,5 +16,7 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production.environment]
 HUGO_ENV = 'production'
 
-*
-  Access-Control-Allow-Origin: *
+[[headers]]
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
