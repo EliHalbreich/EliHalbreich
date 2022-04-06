@@ -13,11 +13,13 @@ taxonomies:
 permalinks:
   post: /:filename/
 
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+
 imaging:
   quality: 99
 
 params:
-  description: I am an incoming Clinical Psychology Ph.D. Student at Texas Tech University studying human-animal interaction.
+  description: [Twitter](https://twitter.com/EliHalbreich)
   homeMetaContent: Personal website of Eli D. Halbreich.
   footer: Made with [Hugo](https://gohugo.io/). Theme by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).<br>© 2022 Eli D. Halbreich
   # For more date formats see https://gohugo.io/functions/format/
@@ -30,7 +32,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  logoAlt: Photo of Eli standing in front of a wall of shingles.
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -43,17 +45,17 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
-      weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
-    - name: About
+    - name: About Me
       url: /about/
+      weight: 2
+    - name: CV
+      url: /cv/
+      weight: 3
+    - name: Links
+      url: /links/
       weight: 4
-    - name: RSS
-      url: /index.xml
+    - name: Contact Me
+      url: /contact/
       weight: 5
 
 markup:
