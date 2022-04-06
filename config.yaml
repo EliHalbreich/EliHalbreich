@@ -54,7 +54,7 @@ menu:
     - name: Links
       url: /links/
       weight: 4
-    - name: Contact Me
+    - name: Contact
       url: /contact/
       weight: 5
 
