@@ -20,10 +20,4 @@
     {{ partial "katex.html" . }}
     {{ partial "google-analytics-async.html" . }}
   </body>
-<head>
-  {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "analytics-gtag.html" . }}
-  {{ end }}
-  ...
-</head>
 </html>

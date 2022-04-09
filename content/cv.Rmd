@@ -1,4 +1,131 @@
 ---
-date: "2022-04-05"
-title: Curriculum Vitae
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "Curriculum Vitae"
+author: Eli D. Halbreich
+
+jobtitle: "Research Assistant, Tufts University"
+address: "Department of Psychology, 490 Boston Avenue, Medford, MA 02155"
+fontawesome: yes
+email: Eli.Halbreich@tufts.edu
+# github: EliHalbreich
+# twitter: EliHalbreich
+# orcid: "0000-0003-4942-9804"
+#osf: "Enter 5 digit osf string here"
+phone: "+1 (818) 297-9925"
+web: elihalbreich.rbind.io
+updated: FALSE
+rdateformat: "`r format(Sys.time(), '%d %B %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+description: "Copy of Eli Halbreich's curriculum vitae"
 ---
+
+# Education
+
+**Incoming PhD Student, Clinical Psychology**\hfill\ Aug. 2022--Expected 2028  
+Texas Tech University, *Lubbock, TX*
+
+**Bachelor of Arts, Psychology**\hfill\ 2019--Expected 2022  
+Tufts University, *Medford, MA*, GPA: 4.0  
+***Relevant Coursework***: Experimental Psych, Human-Animal Interaction, Clinical Methods, One Health, Statistics for Behavioral Science, The Science of Coping, Abnormal Psych, Black Psych, Personal & Social Development, Seminar in CBT, Social Psych, Understanding Child Development Through Film, Introduction to Cognitive and Brain Sciences  
+***Honors Thesis (2021)***: Perceived Attitudes of Pet Owners About Their Pets During the COVID-19 Pandemic. Tufts University. Digital Collections and Archives. https://dl.tufts.edu/concern/pdfs/6q183150s
+
+**Psychology Major**\hfill\ 2017--2019  
+Los Angeles City College, *Los Angeles, CA*, GPA: 4.0  
+***Relevant Coursework***: Life-Span Psych, Statistics, Biological Psych, Child Growth and Development, General Psych, Civil Rights and the Law
+
+# Honors and Awards
+
+* Helen DeVitt Jones Fellowship, *Texas Tech University*\hfill\ 2022--2026
+* Priscilla N. Dunne Prize, *Tufts University*\hfill\ 2021
+* 2021 TIHAI Student Scholar, *Tufts University*\hfill\ 2021
+* Dean’s List (all full-time semesters), *Tufts University*\hfill\ 2019--2022
+* President’s Honors, *Los Angeles City College*\hfill\ 2019
+* Full Time Dean’s Honor List, *Los Angeles City College*\hfill\ 2018--2019
+
+
+# Publications
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+
+## Peer-Reviewed Publications
+
+**Halbreich, E. D.** (In Press). Perceived Attitudes of Pet Owners About Their Pets During the COVID-19 Pandemic. *Animalia*.
+
+Mueller, M. K., King, E. K., **Halbreich, E. D.**, & Callina, K. (2022). Pet ownership and adolescent stress and adaptive coping during the COVID-19 Pandemic: Findings from the Adolescent Brain Cognitive Development (ABCD) Study®. *Anthrozoös*. https://doi.org/10.1080/08927936.2022.2027093
+
+**Halbreich, E. D.**, & Mueller, M. K. (2022). Profiles of family pet ownership during the COVID-19 pandemic. *Current Psychology*. https://doi.org/10.1007/s12144-021-02574-x
+
+Linder, D. E., Folta, S. C., Must, A., Mulé, C. M., Cash, S. B., **Halbreich, E. D.**, Colón, C., Sullivan, S., Sanabria, E., Gibbs, D., & Farrell, T. (2021). A stakeholder-engaged approach to development of an animal-assisted intervention for obesity prevention among youth with autism spectrum disorder and their pet dogs. *Frontiers in Veterinary Science*, *8*, 735432. https://doi.org/10.3389/fvets.2021.735432
+
+Linder D. E., Santiago S., & **Halbreich, E. D.** (2021). Is there a correlation between dog obesity and human obesity? Preliminary findings of overweight status among dog owners and their dogs. *Frontiers in Veterinary Science*, *8*, 654617. https://doi.org/10.3389/fvets.2021.654617
+
+## Online Publications
+
+Linder, D. E., & **Halbreich, E. D.** (2022, February 22). *Does My Pet Need a ‘Bland Diet’?* Petfoodology. https://vetnutrition.tufts.edu/2022/02/does-my-pet-need-a-bland-diet/
+
+**Halbreich, E. D.** (2019, December 9). *Tenure Most Foul*. Tufts University Student Scholarship. Tisch Library. http://hdl.handle.net/10427/6W924Q81F
+
+# Presentations
+
+## Poster Presentations
+
+**Halbreich, E. D.** (2022, July 7–9). *Perceived attitudes of pet owners about their pets during the COVID-19 pandemic*. 31st International Society for Anthrozoology Conference, Boise, ID, United States.
+
+Folta, S. C., Mulé, C. M., Linder, D. E., Must, A., Cash, S. B., Adkins, J., & **Halbreich, E. D.** (2022, May 11–14). *Exploring nutrition, physical activity, and the role of pet dogs in households with a child with autism spectrum disorder: The DANE Study*. INSAR 2022 Annual Meeting, Austin, TX, United States.
+
+\endgroup
+# Teaching and Advising
+
+**Teaching Assistant, Understanding Child Development Through Film**\hfill\ Fall 2020  
+Tufts University, *Eliot-Pearson Department of Child Study and Human Development*  
+***Instructor***: Calvin Gidney, PhD
+
+**Teaching Assistant, One Health**\hfill\ Fall 2020  
+Tufts University, *Department of Community Health*  
+***Instructor***: Deborah Linder, DVM, MS, DACVN
+
+# Research Experience
+
+**Research Assistant, Examining Nutrition, Exercise, and Rest in Growing Youth (ENERGY) Lab**\hfill\ Aug. 2022--Present  
+***Supervisor***: Jason Van Allen, PhD
+***Research Experience***: To be determined.  
+
+**Research Coordinator, Children's Television Project**\hfill\ Sept. 2021--May 2022  
+***Supervisor***: Calvin Gidney, PhD  
+***Research Experience***: Supervise coders and research assistants working on a longitudinal research project; Work with PIs to implement and improve upon long-term project goals; Organize and manage data from the current season as well as from past years; Assign and track generation of character sheets, coding, cleaning, and collapsing; Generate and manage coder information surveys, training surveys, and coding instrument responses; Respond to student inquiries in a timely manner; and Assist in organizing structure of weekly class meetings as well as semester-long schedule.
+
+**Research Assistant, Tufts Pets and Well-Being Lab**\hfill\ May 2021--Aug. 2022  
+***Supervisor***: Megan K. Mueller, PhD  
+***Research Experience***: Work closely with research team on funded research projects; Assist with participant recruitment, consent, protocol training, data collection, debriefing, and tracking; Draft manuscripts and grant proposals; Conduct systematic literature reviews and analyses; Handle data entry and analysis; and Assist with administrative tasks.
+
+**Research Assistant, Tufts Institute for Human-Animal Interaction**\hfill\ Aug. 2019--Aug. 2022  
+***Supervisor***: Deborah Linder, DVM, MS, DACVN  
+***Research Experience***: Draft manuscripts; Conduct qualitative interviews with participants; Provide general administrative assistance on a number of funded research projects; Work with the Tufts IRB to help ensure that all aspects of the research studies are in compliance with the applicable regulations and institutional guidelines prior to IRB approval; Facilitate feedback on key documents and managing a collaborative workspace with stakeholders; Oversee projects through varying phases of development; Prepare, draft, and finalize stakeholder and research group meeting agendas and minutes; and Draft and finalize site and study documents.
+
+# Professional Society Affiliations
+
+* Psi Chi, The International Honor Society in Psychology
+* International Society for Anthrozoology
+* American Psychological Association
+* American Psychological Association, Division 17, Section 13: The Section on Human-Animal Interaction: Research and Practice
+* Human Animal Bond Association
+
+# Professional and Departmental Service
+
+* **American Psychological Association, APA Campus Ambassador**\hfill\ 2021--Present  
+
+# Skills
+
+* **Technical**: R, SPSS, REDCap, Qualtrics, Adobe Acrobat, Microsoft Office
+* **Language**: English – Native; German – Intermediate High (ACTFL); Spanish – Novice Mid (ACTFL)
