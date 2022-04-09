@@ -1,6 +1,7 @@
 ---
 date: "2022-04-05"
 title: Contact
+description: "Ways to get in touch with Eli Halbreich"
 ---
 
 Feel free to get in touch with me on [Twitter](https://twitter.com/EliHalbreich) or via [email](mailto:Eli.Halbreich@tufts.edu).
