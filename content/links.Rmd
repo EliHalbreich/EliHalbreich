@@ -4,14 +4,14 @@ title: Links
 description: "Ways to find Eli Halbreich at various places on the internet"
 ---
 
-* ORCID: https://orcid.org/0000-0003-4942-9804
-* Twitter: https://twitter.com/EliHalbreich
-* ResearchGate: https://www.researchgate.net/profile/Eli_Halbreich
-* Google Scholar: https://scholar.google.com/citations?user=ffVvNRYAAAAJ
-* NCBI Bibliography: https://www.ncbi.nlm.nih.gov/myncbi/eli.halbreich.1/bibliography/public/
-* Open Science Framework: https://osf.io/85sej/
-* GitHub: https://github.com/EliHalbreich
-* Publons: https://publons.com/researcher/4826051/eli-d-halbreich/
-* LinkedIn: https://www.linkedin.com/in/elihalbreich/
-* Impactstory: https://profiles.impactstory.org/u/0000-0003-4942-9804
-* Loop: https://loop.frontiersin.org/people/1200864
+* **ORCID**: https://orcid.org/0000-0003-4942-9804
+* **Twitter**: https://twitter.com/EliHalbreich
+* **ResearchGate**: https://www.researchgate.net/profile/Eli_Halbreich
+* **Google Scholar**: https://scholar.google.com/citations?user=ffVvNRYAAAAJ
+* **NCBI Bibliography**: https://www.ncbi.nlm.nih.gov/myncbi/eli.halbreich.1/bibliography/public/
+* **Open Science Framework**: https://osf.io/85sej/
+* **GitHub**: https://github.com/EliHalbreich
+* **Publons**: https://publons.com/researcher/4826051/eli-d-halbreich/
+* **LinkedIn**: https://www.linkedin.com/in/elihalbreich/
+* **Impactstory**: https://profiles.impactstory.org/u/0000-0003-4942-9804
+* **Loop**: https://loop.frontiersin.org/people/1200864
