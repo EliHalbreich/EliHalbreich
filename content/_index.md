@@ -1,5 +1,5 @@
 ---
-title: Eli D. Halbreich
+title: Eli D. Halbreich (he/him/his)
 author: Eli D. Halbreich
 date: '2022-04-05'
 description: "Homepage of Eli Halbreich's personal website"
