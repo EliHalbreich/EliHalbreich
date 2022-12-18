@@ -8,4 +8,4 @@ I am a Clinical Psychology Ph.D. Student at [Texas Tech University](https://www.
 
 I am broadly interested in the impact that companion animals have on the humans that live with them. Specifically, I am interested in the impact of emotional attachment to animals and attitudes toward animals on mental health and well-being.
 
-In my spare time, I enjoy running, cycling, baking, and watching soccer (Eintracht Frankfurt, LAFC, USWNT/USMNT), baseball (Dodgers), and Formula 1 (Ferrari).
+In my spare time, I enjoy running, cycling, baking, and watching soccer (Eintracht Frankfurt, LAFC, Germany, and the USWNT), baseball (Dodgers), and Formula 1 (Ferrari and Mercedes).
