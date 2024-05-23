@@ -21,7 +21,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Personal website of Eli D. Halbreich.
-  footer: Made with [Hugo](https://gohugo.io/). Theme by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).<br>© 2023 Eli D. Halbreich
+  footer: Made with [Hugo](https://gohugo.io/). Theme by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).<br>© 2024 Eli D. Halbreich
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
@@ -32,7 +32,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: Photo of Eli standing in front of a wall of shingles.
+  logoAlt: Photo of Eli standing in front of a wall.
   customCss:
     - css/custom_01.css
     - css/custom_02.css
