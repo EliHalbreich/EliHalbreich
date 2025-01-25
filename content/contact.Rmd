@@ -4,4 +4,4 @@ title: Contact
 description: "Ways to get in touch with Eli Halbreich"
 ---
 
-Feel free to get in touch with me on [Bluesky](https://bsky.app/profile/elihalbreich.bsky.social), [Twitter](https://twitter.com/EliHalbreich), or via [email](mailto:EliHalbreich@proton.me).
+Feel free to get in touch with me on [Bluesky](https://bsky.app/profile/elihalbreich.bsky.social) or via [email](mailto:EliHalbreich@proton.me).
