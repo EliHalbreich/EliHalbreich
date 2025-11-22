@@ -4,4 +4,4 @@ title: Curriculum Vitae
 description: "Copy of Eli Halbreich's curriculum vitae"
 ---
 
-You can view my CV here: [cv.pdf](/pdf/cv.pdf)
+You can view my curriculum vitae (CV) here: [CV.pdf](/pdf/cv.pdf)
